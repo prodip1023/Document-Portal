@@ -3,4 +3,10 @@ python-dotenv
 ipykernel
 langchain_groq
 langchain_google_genai
+langchain_community
+pypdf
+langchain-huggingface
+langchain_openai
+chromadb
+langchain_chroma
 -e .
